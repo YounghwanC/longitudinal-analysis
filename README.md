@@ -29,7 +29,7 @@ Contributions to this repository are welcome. If you have suggestions or improve
 
 ## Contact
 For any questions or further information, please contact:
-- **Younghwan Brian Cho** - [email@example.com](mailto:email@example.com)
+- **Younghwan Brian Cho** - [email@example.com](yhcho9270@gmail.com)
 
 ## Citation
 If you use this work in your research, please cite as follows:
