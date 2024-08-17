@@ -34,4 +34,4 @@ For any questions or further information, please contact:
 ## Citation
 If you use this work in your research, please cite as follows:
 ```plaintext
-Cho, Y. B. (2024). Longitudinal Analysis on Various Factors for Human Immune System. [Repository Name], GitHub. [URL]
+Cho, Y. B. (2020). Longitudinal Analysis on Various Factors for Human Immune System. [longitudinal-analysis], GitHub. [https://github.com/YounghwanC/longitudinal-analysis.git]
